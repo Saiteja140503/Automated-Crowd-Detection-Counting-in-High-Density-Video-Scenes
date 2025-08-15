@@ -1,0 +1,7 @@
+path: "C:/Users/saite/OneDrive/Desktop/New folder (2)"  # Base folder path
+train: fest2images/train
+val: fest2images/val
+test: fest2images/test
+
+nc: 1
+names: ['person']
